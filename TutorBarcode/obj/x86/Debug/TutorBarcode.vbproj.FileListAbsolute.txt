@@ -1,0 +1,20 @@
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\TutorBarcode\bin\Debug\TutorBarcode.exe
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\TutorBarcode\bin\Debug\TutorBarcode.pdb
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\TutorBarcode\bin\Debug\TutorBarcode.xml
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\TutorBarcode\obj\x86\Debug\TutorBarcode.Form1.resources
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\TutorBarcode\obj\x86\Debug\TutorBarcode.Resources.resources
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\TutorBarcode\obj\x86\Debug\TutorBarcode.vbproj.GenerateResource.Cache
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\TutorBarcode\obj\x86\Debug\TutorBarcode.exe
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\TutorBarcode\obj\x86\Debug\TutorBarcode.xml
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\TutorBarcode\obj\x86\Debug\TutorBarcode.pdb
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\TutorBarcode\TutorBarcode\obj\x86\Debug\TutorBarcode.exe
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\TutorBarcode\TutorBarcode\obj\x86\Debug\TutorBarcode.xml
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\TutorBarcode\TutorBarcode\obj\x86\Debug\TutorBarcode.pdb
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\TutorBarcode\TutorBarcode\bin\Debug\TutorBarcode.exe
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\TutorBarcode\TutorBarcode\bin\Debug\TutorBarcode.pdb
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\TutorBarcode\TutorBarcode\bin\Debug\TutorBarcode.xml
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\TutorBarcode\TutorBarcode\bin\Debug\KeepAutomation.Barcode.Windows.dll
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\TutorBarcode\TutorBarcode\obj\x86\Debug\TutorBarcode.vbprojResolveAssemblyReference.cache
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\TutorBarcode\TutorBarcode\obj\x86\Debug\TutorBarcode.Form1.resources
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\TutorBarcode\TutorBarcode\obj\x86\Debug\TutorBarcode.Resources.resources
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\TutorBarcode\TutorBarcode\obj\x86\Debug\TutorBarcode.vbproj.GenerateResource.Cache
